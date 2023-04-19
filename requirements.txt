@@ -11,6 +11,7 @@ gin-config
 holoviews
 jax
 jaxlib
+jupyterthemes
 librosa
 manim
 matplotlib
