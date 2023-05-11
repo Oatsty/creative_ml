@@ -36,4 +36,5 @@ tensorflow_probability
 tqdm
 torch
 torchaudio
+torchtext
 torchvision
