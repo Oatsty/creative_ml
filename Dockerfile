@@ -1,4 +1,4 @@
- FROM nvidia/cuda:11.4.3-devel-ubuntu20.04
+ FROM nvidia/cuda:11.0.3-devel-ubuntu20.04
  ARG DEBIAN_FRONTEND=noninteractive
  RUN apt-get update -y
  RUN apt-get update && apt-get install -y sudo git wget tmux htop emacs ssh curl zip unzip libcairo2-dev libpango1.0-dev libsndfile-dev
