@@ -1,5 +1,5 @@
 audioread
-bokeh
+bokeh==2.4.3
 chex
 git+https://github.com/deepmind/dm_aux.git
 dm_pix
@@ -9,9 +9,11 @@ flax
 flaxmodels
 gin-config
 holoviews
+ipykernel
 jax
 jaxlib
 jupyterthemes
+jupyterlab
 librosa
 manim
 matplotlib

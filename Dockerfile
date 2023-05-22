@@ -11,4 +11,3 @@
  RUN git config --global user.email "parinayoksatayu@gmail.com"
  RUN git config --global user.name "oatsty"
  RUN echo 'set-option -g default-shell /bin/bash' >> ~/.tmux.conf
- RUN  echo "IdentityFile ~/.ssh/id_rsa" >> /etc/ssh/ssh_config
