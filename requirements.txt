@@ -18,11 +18,13 @@ librosa
 manim
 matplotlib
 music21
+nltk
 numpy
 optax
 pandas
 panel
 plotly
+portalocker>=2.0.0
 pretty_midi
 pyrubberband
 pyo

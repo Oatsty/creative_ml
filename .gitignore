@@ -138,3 +138,5 @@ __pycache__/
 
 #macosx
 __MACOSX/
+transformer-model-2.pt
+output_translate.txt
