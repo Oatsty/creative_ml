@@ -15,7 +15,6 @@ jaxlib
 jupyterthemes
 jupyterlab
 librosa
-manim
 matplotlib
 music21
 nltk
